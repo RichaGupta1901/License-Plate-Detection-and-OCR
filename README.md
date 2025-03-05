@@ -14,7 +14,7 @@ This project detects and extracts text from license plates using OpenCV for imag
 ### 2️⃣ **Haarcascade Classifier**  
 - A pre-trained XML file (`haarcascade_russian_plate_number.xml`) that detects license plates based on patterns.  
 - Used to **detect** the location of the license plate in the image.
-- Download it from [OpenCV GitHub](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+- Download it from [OpenCV GitHub](https://github.com/opencv/opencv/tree/master/data/haarcascades) or download the XML file from this repository.
 
 ### 3️⃣ **EasyOCR**  
 - Deep learning-based Optical Character Recognition (OCR).  
