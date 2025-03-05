@@ -1,4 +1,4 @@
-# **License Plate Recognition Using OpenCV, EasyOCR & Tesseract** 🚗🔍  
+# **License Plate Detection Using OpenCV, EasyOCR & Tesseract** 🚗🔍  
 
 ## **🔹 Overview**  
 This project detects and extracts text from license plates using OpenCV for image processing, Haarcascade for plate detection, and OCR engines like **EasyOCR** and **Tesseract** for text recognition. The backend is powered by **Flask**, making it easy to integrate into a web application.  
